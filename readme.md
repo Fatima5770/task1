@@ -6,7 +6,6 @@ Prerequisites
 
 Installing Dependencies
 ```bash
-cd frontend
 npm install
 ```
 Building the Project
